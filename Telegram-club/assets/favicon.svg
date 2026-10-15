@@ -1,0 +1,6 @@
+<!-- [ЛОГОТИП] — временная иконка, заменить на фирменную -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="9" fill="#9fd0f2"/>
+  <rect x="15" y="4" width="2" height="24" fill="#08202f"/>
+  <rect x="11.5" y="11.5" width="9" height="9" rx="1.5" fill="#08202f" transform="rotate(45 16 16)"/>
+</svg>
